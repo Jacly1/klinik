@@ -21,6 +21,4 @@ Route::get('testing', function () {
     return view('profile');
 });
 
-Route::get('testing', function () {
-    return view('profile');
-});
+
